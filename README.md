@@ -7,4 +7,6 @@ You can log in with your
 
 Then you can check your balance, withdraw money, and deposit money.
 
+Download the repo and open the terminal and run 'javac ATM.java' then after compiling run 'java ATM'.
+
 I hope you enjoy the code.
